@@ -1,0 +1,13 @@
+.fixed-footer{
+    background-color: #00FF00;
+    color: black;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    padding: 5px 0;
+}
+.fixed-footer div{
+    text-align: center;
+    margin-top: 20px;
+}

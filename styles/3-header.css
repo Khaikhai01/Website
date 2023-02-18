@@ -1,0 +1,13 @@
+.header{
+    color: white;
+    height: 70px;
+    width: 100px;
+    border-bottom: 1px #CCCCCC;
+}
+.header fa-airbnb{
+    padding: 10px;
+}
+.header p{
+    color:black;
+    margin: 10px;
+}
